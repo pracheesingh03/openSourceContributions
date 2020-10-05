@@ -7,7 +7,7 @@ Fork this repository by clicking the "Fork" button on top of this section. A cop
 Open your machine's terminal and run the following command:
 git clone "url of forked repository"
 For example:
-git clone ""
+git clone "https://github.com/pracheesingh03/openSourceContributions.git"
 Here, a copy of this repository will appear in your local machine.
 
 3. Make Changes & Commit
