@@ -3,6 +3,7 @@ Introduction
 1. Fork This Repository
 
 Fork this repository by clicking the "Fork" button on top of this section. A copy of this repository will be created in your personal profile.
+
 2. Clone This Repository in your local machine.
 
 Open your machine's terminal and run the following command: git clone "url of forked repository"
